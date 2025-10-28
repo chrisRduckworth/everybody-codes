@@ -11,7 +11,7 @@ def part_1(input):
 #     return
 
 
-prefix = f'inputs/everbody_codes_e2024_q{quest_no}_p'
+prefix = f'inputs/everybody_codes_e2024_q{quest_no}_p'
 
 with open(f'{prefix}1.txt') as f:
     input = f.read()
@@ -19,8 +19,8 @@ with open(f'{prefix}1.txt') as f:
 
 # with open(f'{prefix}2.txt') as f:
 #     input = f.read()
-#     part_1(input)
+#     part_2(input)
 
 # with open(f'{prefix}3.txt') as f:
 #     input = f.read()
-#     part_1(input)
+#     part_3(input)
